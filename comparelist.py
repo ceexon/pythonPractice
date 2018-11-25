@@ -19,9 +19,6 @@ def mindiffmax(arr):
 mindiffmax([7, 69, 2, 221, 8974])
 
 
-
-
-
 # # num1 = [1,3,5]
 # # num2 = [2,11,6]
 # # a = 0
